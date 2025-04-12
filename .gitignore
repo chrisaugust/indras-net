@@ -1,0 +1,10 @@
+# Bytecode
+__pycache__/
+*.pyc
+
+# Alembic
+alembic/versions/*.pyc
+
+# Docker
+*.env
+*.log
